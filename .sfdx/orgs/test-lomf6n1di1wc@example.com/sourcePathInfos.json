@@ -1,0 +1,400 @@
+[
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522423176363,
+            "changeTime": 1522423176363,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522423176365,
+            "changeTime": 1522423176365,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522425037756,
+            "changeTime": 1522425037756,
+            "contentHash": "74a000e9daff5131c24f079c769f23f545042ed8"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522423176366,
+            "changeTime": 1522423176366,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522423300952,
+            "changeTime": 1522423300952,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\Waypoint__c\\Waypoint__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\Waypoint__c\\Waypoint__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2076,
+            "modifiedTime": 1522424234375,
+            "changeTime": 1522424234375,
+            "contentHash": "15a1b111fa3a38b6e52180706df4624c4e20740a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c\\SwimEvent__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c\\SwimEvent__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2079,
+            "modifiedTime": 1522424234391,
+            "changeTime": 1522424234391,
+            "contentHash": "7965318a7d10672c248d462abc566c6f8955726a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\layouts\\Waypoint__c-Waypoint Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\layouts\\Waypoint__c-Waypoint Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2654,
+            "modifiedTime": 1522424234399,
+            "changeTime": 1522424234399,
+            "contentHash": "559282d979186f6eb3c3f07b16e85488229a9db6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\flexipages\\SwimTracker_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\flexipages\\SwimTracker_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 385,
+            "modifiedTime": 1522424234404,
+            "changeTime": 1522424234404,
+            "contentHash": "18f7795056db595901cc1a9c25f99ac452f2b040",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\tabs\\SwimEvent__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\tabs\\SwimEvent__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1522424234408,
+            "changeTime": 1522424234408,
+            "contentHash": "c26c231262dd4fce1295bcb822da82dd74b81260",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\applications\\SwimTracker.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\applications\\SwimTracker.app-meta.xml",
+            "isDirectory": false,
+            "size": 673,
+            "modifiedTime": 1522424234414,
+            "changeTime": 1522424234414,
+            "contentHash": "1cf05c91a224829b8cbe693744fd4b92af6aa21c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18445,
+            "modifiedTime": 1522424234434,
+            "changeTime": 1522424234434,
+            "contentHash": "de5c6ae282388ad3617768ac13bd9f85cedb9b9f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4721,
+            "modifiedTime": 1522424234441,
+            "changeTime": 1522424234441,
+            "contentHash": "3957beb3a4352332e66d2ded1a2dfef71e07c3af",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4721,
+            "modifiedTime": 1522424234450,
+            "changeTime": 1522424234450,
+            "contentHash": "3957beb3a4352332e66d2ded1a2dfef71e07c3af",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5059,
+            "modifiedTime": 1522424234459,
+            "changeTime": 1522424234459,
+            "contentHash": "5bc490e6dd1cb3dc2ccd698d7c837522f74a291c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\contentassets\\Stanny_hat.asset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\contentassets\\Stanny_hat.asset-meta.xml",
+            "isDirectory": false,
+            "size": 470,
+            "modifiedTime": 1522424234467,
+            "changeTime": 1522424234467,
+            "contentHash": "0691311a99aa9fcf51a183bd86ce3e5a442dee88",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\contentassets\\Stanny_hat.asset",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\contentassets\\Stanny_hat.asset",
+            "isDirectory": false,
+            "size": 24353,
+            "modifiedTime": 1522424234472,
+            "changeTime": 1522424234472,
+            "contentHash": "ba9d031dfa9db3997142db09ec422b688f4693b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\contentassets\\Stanny_hat1.asset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\contentassets\\Stanny_hat1.asset-meta.xml",
+            "isDirectory": false,
+            "size": 471,
+            "modifiedTime": 1522424234480,
+            "changeTime": 1522424234480,
+            "contentHash": "d9c6b752352d74dde7edcf8ec863d712a46f5c6e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\contentassets\\Stanny_hat1.asset",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\contentassets\\Stanny_hat1.asset",
+            "isDirectory": false,
+            "size": 24353,
+            "modifiedTime": 1522424234483,
+            "changeTime": 1522424234483,
+            "contentHash": "ba9d031dfa9db3997142db09ec422b688f4693b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\Waypoint__c",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\Waypoint__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522424234374,
+            "changeTime": 1522424234374,
+            "contentHash": "09871bdcb0514a0ddcd056c7f0077baafcc74824",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522424234384,
+            "changeTime": 1522424234384,
+            "contentHash": "765592a6ae5bf661e88354bcec44056f5dc620f2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522424234387,
+            "changeTime": 1522424234387,
+            "contentHash": "22fdb48f38f95d0c64675a329163cbe19ae1305b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522424234398,
+            "changeTime": 1522424234398,
+            "contentHash": "6923d38ee10f3ded45a47986a7ce4215662edb5c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522424234403,
+            "changeTime": 1522424234403,
+            "contentHash": "76de6ffa4bfb4aeafc9d286edcd6693d4062d0fe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522424234407,
+            "changeTime": 1522424234407,
+            "contentHash": "abfb4aa59059604fd323f818c4851ab34ff43406",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522424234413,
+            "changeTime": 1522424234413,
+            "contentHash": "8383db5b189cb70c98f4e37f5beabdddd038f472",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522424234458,
+            "changeTime": 1522424234458,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\contentassets",
+        {
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522424234482,
+            "changeTime": 1522424234482,
+            "contentHash": "61412923d605f0035c69024fc6d7ed7690627d29",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\permissionsets\\SwimApp.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\permissionsets\\SwimApp.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 716,
+            "modifiedTime": 1522425037760,
+            "changeTime": 1522425037760,
+            "contentHash": "4c6924828cc4c32c0bb5288f4ed6b2d630ea5b49"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522425037759,
+            "changeTime": 1522425037759,
+            "contentHash": "b7b6da7c4efc8c600dd00d3b7c4469502931c0a3"
+        }
+    ]
+]
