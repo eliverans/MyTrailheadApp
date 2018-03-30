@@ -283,27 +283,27 @@
     [
         "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522426292867,
             "changeTime": 1522426292867,
-            "contentHash": "bf4f302e7b26149428a18bbfb885a020157eb889"
+            "contentHash": "bf4f302e7b26149428a18bbfb885a020157eb889",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522426292900,
             "changeTime": 1522426292900,
-            "contentHash": "89148ede459581e3699d864b94ed02dc50f11e00"
+            "contentHash": "89148ede459581e3699d864b94ed02dc50f11e00",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -374,14 +374,14 @@
     [
         "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\permissionsets\\SwimApp.permissionset-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\permissionsets\\SwimApp.permissionset-meta.xml",
             "isDirectory": false,
-            "size": 716,
-            "modifiedTime": 1522425037760,
-            "changeTime": 1522425037760,
-            "contentHash": "4c6924828cc4c32c0bb5288f4ed6b2d630ea5b49",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 856,
+            "modifiedTime": 1522427284056,
+            "changeTime": 1522427284056,
+            "contentHash": "7a76fb5817e926d8f0a4773fe4bac45417a0a9d7"
         }
     ],
     [
@@ -400,66 +400,66 @@
     [
         "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c\\fields\\Data__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c\\fields\\Data__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1522426292875,
             "changeTime": 1522426292875,
-            "contentHash": "49e52bb4c3e51d289ff57e9410075e7322cdd0df"
+            "contentHash": "49e52bb4c3e51d289ff57e9410075e7322cdd0df",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c\\fields\\Distanza__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c\\fields\\Distanza__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 392,
             "modifiedTime": 1522426292881,
             "changeTime": 1522426292881,
-            "contentHash": "6a8815da7c6ed8c2c2928f6625856ce6727ef2b3"
+            "contentHash": "6a8815da7c6ed8c2c2928f6625856ce6727ef2b3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c\\fields\\Tipo_Allenamento__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c\\fields\\Tipo_Allenamento__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 809,
             "modifiedTime": 1522426292893,
             "changeTime": 1522426292893,
-            "contentHash": "83400d5bc31aec10322f55c9ef5628693fcc088b"
+            "contentHash": "83400d5bc31aec10322f55c9ef5628693fcc088b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\layouts\\SwimEvent__c-SwimEvent Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\layouts\\SwimEvent__c-SwimEvent Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3084,
             "modifiedTime": 1522426292901,
             "changeTime": 1522426292901,
-            "contentHash": "597c5162567599dde1141fbca6b1664879bbaa3d"
+            "contentHash": "597c5162567599dde1141fbca6b1664879bbaa3d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\MyTrailheadApp\\force-app\\main\\default\\objects\\SwimEvent__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522426292889,
             "changeTime": 1522426292889,
-            "contentHash": "2cb1d24a59b501d863184568f2cb3a7a73fbe76c"
+            "contentHash": "2cb1d24a59b501d863184568f2cb3a7a73fbe76c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
